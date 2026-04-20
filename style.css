@@ -304,6 +304,9 @@ footer p{
 .box{
     margin: 2% 1%;
 }
+.item_box{
+    margin: 6% 1%;
+}
 }
 @media only screen and (max-width:763px){
     .boxes{
